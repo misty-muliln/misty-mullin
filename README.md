@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @misty-mullin
-- 👀 I’m interested in querying in databases, conducting exploratory analyses, using machine learnign to build predictive models (supervised & unsupervised), and doing research to improve science.
+- 👀 I’m interested in querying in databases, conducting exploratory analyses, using machine learning to build predictive models (supervised & unsupervised), and doing research to improve science.
 - 🌱 I’m currently learning how to deploy machine learning techniques with Azure.
 - 💞️ I’m looking to collaborate on anything! I love to work with others and learn from them to increase my own skillset.
 - 📫 How to reach me please email misty.rose.mullin@gmail.com
